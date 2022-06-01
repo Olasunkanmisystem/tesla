@@ -1,3 +1,3 @@
 print('michael')
-# echo michael 
-
+# echo("michael')
+ bug fixed and removed
