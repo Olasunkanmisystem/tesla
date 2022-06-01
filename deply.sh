@@ -5,3 +5,6 @@ deployment gives you levels
 deployment to the server
 deploy to staging
 deployment is easy
+echo good job 
+tested and trusted 
+
